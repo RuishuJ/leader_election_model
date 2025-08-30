@@ -7,8 +7,10 @@ Thank you for reading this.
 Simulation: 
 
 Model C:Heuristic-based Model
+
 ![Simulation Demo](assets/h_demo.gif)
 
 
 Model B:FIFO-based Model
+
 ![Simulation Demo](assets/FIFO_demo.gif)
