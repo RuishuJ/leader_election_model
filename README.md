@@ -8,9 +8,13 @@ Simulation:
 
 **Model C:Heuristic-based Model**
 
-![Simulation Demo](assets/Heuristic_demo.gif)
+![Simulation Demo](assets/heuristic_demo.gif)
 
 
 **Model B:FIFO-based Model**
 
 ![Simulation Demo](assets/FIFO_demo.gif)
+
+**Model A:Ruled-based Model**
+
+![Simulation Demo](assets/ruled_demo.gif)
