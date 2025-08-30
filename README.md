@@ -4,5 +4,7 @@ RoboTraffic: Heuristic Leader Selection for Collaborative Intersection Control: 
 
 Thank you for reading this. 
 
-##Simulation: 
+Simulation: 
+
 Model C:Heuristic-based Model
+![Simulation Demo](assets/h_demo.gif)
