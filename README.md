@@ -4,17 +4,24 @@
 
 Thank you for reading the Appendix. 
 
-Simulation: 
 
 **Model C:Heuristic-based Model**
 
-![Simulation Demo](assets/heuristic_demo.gif)
+<img src="assets/Heuristic_S.png" alt="Alt text" width="600"/>
+<img src="assets/Heuristic_F.png" alt="Alt text" width="600"/>
+<img src="assets/heuristic_demo.gif" alt="Simulation Demo" width="400"/>
+
 
 
 **Model B:FIFO-based Model**
 
-![Simulation Demo](assets/FIFO_demo.gif)
+<img src="assets/FIFO_S.png" alt="Alt text" width="600"/>
+<img src="assets/FIFO_F.png" alt="Alt text" width="600"/>
+<img src="assets/FIFO_demo.gif" alt="Simulation Demo" width="400"/>
+
 
 **Model A:Ruled-based Model**
 
-![Simulation Demo](assets/ruled_demo.gif)
+<img src="assets/Ruled_S.png" alt="Alt text" width="600"/>
+<img src="assets/Ruled_F.png" alt="Alt text" width="600"/>
+<img src="assets/ruled_demo.gif" alt="Simulation Demo" width="400"/>
